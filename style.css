@@ -2,3 +2,12 @@ body {
     background: green;
     color: red
 }
+div#main {
+    padding: 10px;
+    width: 800px;
+    height: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    background: greenyellow;
+    color:black
+}
